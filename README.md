@@ -203,13 +203,13 @@ This selects an element with a matching attribute value. This selector is indica
 
 ##### Other Attribute Selectors Include:
 
-`a[href^="http"]` The `^=` carrot symbol selects elements that start with the matching value, such as `<a href="http://google.com">google</a>`.
+`a[href^="http"]` The `^=` carrot symbol and equals sign select elements that start with the matching value, such as `<a href="http://google.com">google</a>`.
 
-`p[class$="dog"]` The `$=` dollar sign selects elements that end with the matching value, such as `<p class="bigbdog">...</a>`.
+`p[class$="dog"]` The `$=` dollar and equals signs select elements that end with the matching value, such as `<p class="bigbdog">...</a>`.
 
-`img[alt*="love"]` The `*=` asterisk selects elements that have the matched characters appearing anywhere within the value, such as `<img src="myimage.jpg" alt="I love you.">`.
+`img[alt*="love"]` The `*=` asterisk and equals sign select elements that have the matched characters appearing anywhere within the value, such as `<img src="myimage.jpg" alt="I love you.">`.
 
-`p[class~="monkey"]` The `~=` tilde symbol selects elements that contain the term within a space separated value, such as `<p class="zoo monkey details">...</p>`.
+`p[class~="monkey"]` The `~=` tilde symbol and equals sign select elements that contain the term within a space separated value, such as `<p class="zoo monkey details">...</p>`.
 
 `p[class|="birds"]` The `|=` pipe symbol selects elements that contain the term within a dash separated value, such as `<p class="new-birds-today">...</p>`.
 
@@ -254,3 +254,5 @@ These are just a few psuedo selectors, but there are many additional ones you ca
 - [Tuts Plus - 30 CSS selectors to Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [Learn More Pseudo Selectors](http://css-tricks.com/pseudo-class-selectors/)
 - [CSS Diner Online Game](http://flukeout.github.io/)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/css-selectors'>CSS Selectors</a> on Learn.co and start learning to code for free.</p>
