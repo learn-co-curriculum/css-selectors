@@ -10,7 +10,7 @@ In this lesson we will do a quick review of CSS selectors from the video lecture
 2. Review Class Selector
 3. Review ID Selector
 4. Review Compound Selector
-5. Review Descendent Selector\
+5. Review Descendent Selector
 6. Review Child
 7. Review Adjacent Sibling
 8. Review General Sibling
@@ -78,7 +78,7 @@ To apply the two classes we simply use a space to separate their names.
 }
 ```
 
-Thi selects an element with matching id attribute name. This selector is indicated by the preceeding `#` hashtag symbol.
+This selects an element with matching id attribute name. This selector is indicated by the preceeding `#` hashtag symbol.
 
 ```html
 <div id="box">I'm a box</span>
