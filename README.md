@@ -179,7 +179,7 @@ This selects all elements that appear directly after the former element. This se
 }
 ```
 
-This selects elements where the properties specified have not been styled by any other selectors. This selector is indicated by a `*` asterisk symbol.
+This selects elements where the properties specified have not been styled by any other selectors. This selector is indicated by an `*` asterisk symbol.
 
 ```html
 <h5>Sub heading</h5>
