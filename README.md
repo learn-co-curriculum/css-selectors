@@ -254,3 +254,5 @@ These are just a few psuedo selectors, but there are many additional ones you ca
 - [Tuts Plus - 30 CSS selectors to Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [Learn More Pseudo Selectors](http://css-tricks.com/pseudo-class-selectors/)
 - [CSS Diner Online Game](http://flukeout.github.io/)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/css-selectors'>CSS Selectors</a> on Learn.co and start learning to code for free.</p>
