@@ -81,7 +81,7 @@ To apply the two classes we simply use a space to separate their names.
 This selects an element with matching id attribute name. This selector is indicated by the preceeding `#` hashtag symbol.
 
 ```html
-<div id="box">I'm a box</span>
+<div id="box">I'm a box</div>
 ```
 
 A single Id name should only be applied to one element per page.
@@ -99,7 +99,7 @@ This selects all matched elements in the compound set. This selector is indicate
 ```html
 <h1>Heading</h1>
 <h2>Subheading</h2>
-<div id="box">I'm a box</span>
+<div id="box">I'm a box</div>
 ```
 
 #### Descendent
