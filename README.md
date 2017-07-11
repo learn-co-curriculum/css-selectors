@@ -94,7 +94,7 @@ h1, h2, #box {
 }
 ```
 
-This selects all matched elements in the compound set. This selector is indicated by a `,` comma separating the selectors of the set. Each element within the coma separated list will be styled the same.
+This selects all matched elements in the compound set. This selector is indicated by a `,` comma separating the selectors of the set. Each element within the comma separated list will be styled the same.
 
 ```html
 <h1>Heading</h1>
