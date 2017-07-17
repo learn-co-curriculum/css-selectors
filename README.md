@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lesson we will do a quick review of CSS selectors from the video lecture in the prior lesson.
+In this lesson we will do a quick review of CSS selectors.
 
 ## What's Covered in This Lesson 
 
