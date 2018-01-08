@@ -122,7 +122,7 @@ This selects an element that is nested inside of the specified parent element. T
 
 ```css
 #list > li {
-  color: black;
+  border: 1px solid black;
 }
 ```
 
