@@ -203,7 +203,7 @@ This selects an element with a matching attribute value. This selector is indica
 
 ##### Other Attribute Selectors Include:
 
-`a[href^="http"]` The `^=` carrot symbol and equals sign select elements that start with the matching value, such as `<a href="http://google.com">google</a>`.
+`a[href^="http"]` The `^=` caret symbol and equals sign select elements that start with the matching value, such as `<a href="http://google.com">google</a>`.
 
 `p[class$="dog"]` The `$=` dollar and equals signs select elements that end with the matching value, such as `<p class="bigbdog">...</a>`.
 
