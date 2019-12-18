@@ -205,7 +205,7 @@ This selects an element with a matching attribute value. This selector is indica
 
 `a[href^="http"]` The `^=` caret symbol and equals sign select elements that start with the matching value, such as `<a href="http://google.com">google</a>`.
 
-`p[class$="dog"]` The `$=` dollar and equals signs select elements that end with the matching value, such as `<p class="bigbdog">...</a>`.
+`p[class$="dog"]` The `$=` dollar and equals signs select elements that end with the matching value, such as `<p class="bigbdog">...</p>`.
 
 `img[alt*="love"]` The `*=` asterisk and equals sign select elements that have the matched characters appearing anywhere within the value, such as `<img src="myimage.jpg" alt="I love you.">`.
 
