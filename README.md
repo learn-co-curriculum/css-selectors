@@ -10,7 +10,7 @@ In this lesson we will do a quick review of CSS selectors.
 2. Review Class Selector
 3. Review ID Selector
 4. Review Compound Selector
-5. Review Descendent Selector
+5. Review Descendant Selector
 6. Review Child
 7. Review Adjacent Sibling
 8. Review General Sibling
@@ -102,7 +102,7 @@ This selects all matched elements in the compound set. This selector is indicate
 <div id="box">I'm a box</div>
 ```
 
-#### Descendent
+#### Descendant
 
 ```css
 #nav li {
