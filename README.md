@@ -44,7 +44,7 @@ This selects an element of the specified type based directly on providing the el
 }
 ```
 
-This selects an element with matching class attribute name. This selector is indicated by the preceeding `.` dot (period).
+This selects an element with matching class attribute name. This selector is indicated by the preceding `.` dot (period).
 
 ```html
 <span class="thick">I'm thick</span>
